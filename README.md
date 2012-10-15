@@ -1,4 +1,6 @@
 Planetarium
 ================
 
-Kinect visualization project. Renders people as Stars, connecting them to form Constellations.
+Art visualization project. Renders people as Stars, connecting them to form Constellations.
+
+Build using OSX, Microsoft Kinect, Open Frameworks.
